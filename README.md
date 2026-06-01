@@ -1,6 +1,6 @@
 # Exercícios Python
 
-Repositório contendo exercícios e atividades desenvolvidos durante meus estudos de lógica de programação e Python.
+Repositório contendo exercícios e atividades desenvolvidos durante meus estudos de lógica de programação e Python no curso técnico de informática do CETEC UCS.
 
 ## Conteúdos
 
