@@ -1,0 +1,9 @@
+# Faça um programa que leia um número inteiro entre 0 e 9999 e calcule a soma dos seus dígitos. Por exemplo, se o número for 1234, a soma dos dígitos será 1 + 2 + 3 + 4 = 10.
+N=int(input("numero(entre 0 e 9999): "))
+d1=N//1000
+resto=N%1000
+d2=resto//100
+resto=resto%100
+d3=resto//10
+d4=resto%10
+print("soma=", d1+d2+d3+d4)

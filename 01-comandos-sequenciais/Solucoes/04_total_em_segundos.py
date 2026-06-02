@@ -1,0 +1,10 @@
+# Faça um programa que leia uma quantidade de dias, horas, minutos e segundos e calcule o total em segundos.
+dias=int(input("Dê uma quantidade de dias: "))       
+horas=int(input("Dê uma quantidade de horas: "))         
+minutos=int(input("Dê uma quantidade de minutos: "))
+segundos=int(input("Dê uma quantidade de segundos: "))
+d=(dias*86400)
+h=(horas*3600)
+m=(minutos*60)
+s=(segundos*1)
+print(d+h+m+s)
